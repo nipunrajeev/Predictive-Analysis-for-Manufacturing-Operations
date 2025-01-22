@@ -18,8 +18,8 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/nipunrajeev/Predictive-Analysis-for-Manufacturing-Operations.git
+   cd Predictive-Analysis-for-Manufacturing-Operations
    ```
 
 2. Create and activate a virtual environment:
@@ -35,7 +35,7 @@ Ensure you have the following installed on your machine:
 
 4. Run the Flask application:
    ```bash
-   python app.py
+   python api.py
    ```
 
    The Flask server will start running on `http://127.0.0.1:5000/`.
